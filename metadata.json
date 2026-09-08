@@ -1,0 +1,6 @@
+{
+  "name": "Voice App - Official Website",
+  "description": "Official promotional and APK download website for Voice App, the smart voice-controlled camera and mobile utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
